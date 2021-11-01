@@ -11,6 +11,6 @@
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=wallnussjonas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<a
+<a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WallnussJonas&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a/>
