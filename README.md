@@ -10,3 +10,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-https://wallnussjonas.github.io/Portfolio/-2648ff?style=flat-square&logo=google-chrome)](https://wallnussjonas.github.io/Portfolio/)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=wallnussjonas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<a
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WallnussJonas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
