@@ -22,9 +22,4 @@ HTML              14 hrs          >>-----------------------   08.27 %
 
 <!--END_SECTION:waka-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=WallnussJonas&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="WallnussJonas" style="padding-right:20px;" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
