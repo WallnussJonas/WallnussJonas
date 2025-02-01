@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 ## Hey, I'm Jonas 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
@@ -21,3 +22,4 @@ HTML              14 hrs          >>-----------------------   08.27 %
 ```
 
 <!--END_SECTION:waka-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
